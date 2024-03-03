@@ -43,5 +43,5 @@ runs:
       with:
         dotnet-version: 7.x
 
-inputs: {}  # Empty inputs section
+inputs: {}  # Empty inputs section 
 
